@@ -42,7 +42,6 @@ export function Modal({ closeModal }: ModalProps) {
                         width={560}
                         height={315}
                         src="https://www.youtube.com/embed/jo-01q8Ko08?si=utd-OJRnMEUr0Aam"
-                        title="YouTube video player"
                         frameBorder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
